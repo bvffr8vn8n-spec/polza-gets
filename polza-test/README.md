@@ -1,6 +1,9 @@
 ############################################################
+
 Polza Outreach Engine — Test Assignment
+
 Telegram Integration + Email Domain Validation
+
 ############################################################
 
 Данный репозиторий содержит решение тестового задания для позиции
@@ -112,3 +115,4 @@ python tg_send.py message.txt
 
 Павел Петрович  
 Тестовое задание для Polza Outreach Engine
+
